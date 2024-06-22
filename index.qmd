@@ -1,0 +1,18 @@
+---
+title: "cacostakis.github.io"
+author: cacostakis
+---
+
+# Qual analysis
+
+## Overview of positions
+
+```{r}
+1 + 1
+```
+
+## Constraints
+
+## Enablers
+
+## Activities
